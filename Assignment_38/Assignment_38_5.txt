@@ -1,0 +1,23 @@
+5. Based on the dataset values, analyze whether:
+    Higher StudyHours increase the chance of passing.
+    Higher Attendance improves FinalResult.
+    Write your observations in 4-5 lines.
+
+
+
+1️⃣ Students who passed generally have higher StudyHours (5–8 hours) compared 
+    to students who failed (mostly 1–3 hours). This indicates that increasing study 
+        hours improves the probability of passing.
+
+2️⃣ Students with higher Attendance (above 80%) mostly fall into 
+    the Pass category, while those below 70% are more likely to fail.
+
+3️⃣ There is a visible positive trend: as StudyHours increase, 
+        FinalResult tends to be 1 (Pass).
+
+4️⃣ Similarly, better Attendance improves academic performance, 
+    suggesting consistency plays an important role.
+
+5️⃣ Therefore, based on this dataset, both higher StudyHours and higher
+     Attendance increase the chance of passing, though they may
+         not be the only factors affecting performance.
